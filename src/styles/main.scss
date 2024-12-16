@@ -1,3 +1,7 @@
 // src/styles/main.scss
 @use "abstracts/mixins";
 @use "base/base";
+@import "components/content";
+@import "components/hotel-view";
+@import "layout/navigation";
+@import "layout/header";
