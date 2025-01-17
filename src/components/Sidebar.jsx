@@ -65,7 +65,7 @@ function Sidebar() {
         </li>
       </ul>
 
-      <div className="legal">&copy; 2017 by trillo. All Rights Reserved</div>
+      <div className="legal">&copy; 2024 by James. All Rights Reserved</div>
     </nav>
   );
 }

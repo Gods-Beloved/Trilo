@@ -17,7 +17,7 @@ function UserReviews() {
         text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga doloremque architecto dicta animi.
 "
         name={"Alex Boala"}
-        date={"September 23rd, 2024"}
+        date={"Sept 19th, 2024"}
       />
       <button className="btn-inline">
         Show all <span>&rarr;</span>

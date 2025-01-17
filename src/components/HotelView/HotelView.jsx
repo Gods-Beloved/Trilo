@@ -1,3 +1,4 @@
+import CallToAction from "./details/CallToAction";
 import Details from "./details/Details";
 import Gallery from "./Gallery";
 import Overview from "./overview/Overview";
@@ -8,6 +9,7 @@ function HotelView() {
       <Gallery />
       <Overview />
       <Details />
+      <CallToAction />
     </main>
   );
 }
